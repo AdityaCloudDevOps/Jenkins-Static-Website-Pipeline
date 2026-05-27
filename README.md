@@ -122,17 +122,27 @@ Deploys latest application version.
 
 # Screenshots
 
-## Jenkins Pipeline Success
+## Live Website
 
-(Add Screenshot)
+![Website](screenshots/website-homepage.png)
+
+---
+
+## Jenkins Pipeline
+
+![Jenkins Pipeline](screenshots/jenkins-pipeline.png)
+
+---
 
 ## Docker Running Container
 
-(Add Screenshot)
+![Docker](screenshots/docker-running.png)
 
-## Live Website
+---
 
-(Add Screenshot)
+## GitHub Repository
+
+![GitHub](screenshots/github-repo.png)
 
 ---
 
